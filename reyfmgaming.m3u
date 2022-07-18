@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:0,REYFM - #gaming
+#EXTVLCOPT:network-caching=1000
+https://reyfm-stream18.radiohost.de/reyfm-gaming_mp3-320
